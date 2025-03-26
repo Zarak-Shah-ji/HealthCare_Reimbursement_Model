@@ -39,11 +39,8 @@ If you would like to contribute to this project, please follow these steps:
 6. Open a pull request.
 
 ## License
-This project is licensed under the [Your License] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT LICENSE - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please contact [Your Name] at [Your Email].
+For any questions or feedback, please email me at: zarak.shahjee1@gmail.com.
 
----
-
-Feel free to customize this template further based on the specific details and requirements of your project.
