@@ -23,8 +23,8 @@ Though the very small dataset size made me use LogisticRegression as well for si
 To get started with this project, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Zarak-Shah-ji/HealthCare_Reimbursement_Model
+cd HealthCare_Reimbursement_Model
 ```
 
 
