@@ -2,7 +2,8 @@
 
 
 ## Overview
-This project aims to solve the take home technical assesment from KALDEROS. The main technical question is solving to predict HEALTHCARE REIMBURSMENT CLAIMS using Machine learning specifically using RandomForestClassifier and LogisticRegression.   It includes various files and datasets that are essential for classification of patients.
+This project aims to solve the take home technical assesment from KALDEROS. The main technical question is solving to predict HEALTHCARE REIMBURSMENT CLAIMS using Machine learning specifically using RandomForestClassifier and LogisticRegression.   It includes various files and and 
+ 10 row very small dataset (this was the trickier part to deal with) that are essential for classification of patients.
 
 # Key Analytical Findings:
 ![image](https://github.com/user-attachments/assets/56105546-459f-4f5a-be22-f2221751ea17)
